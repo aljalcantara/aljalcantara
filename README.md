@@ -5,7 +5,7 @@ I worked freelance for 5 years, focusing more on electronics and automation proj
 
 In 2023, I decided to switch career and focus more on graphic design, UI/UX design and web development. My front end tech stack involves ReactJS, NextJS, Three.js, GSAP, React-Redux, Tailwind CSS, and Sanity.io CMS.
 
-- 🔭 I’m currently working with CommunityJuice in providing multi-platform React-based games and apps (Telegram mini apps and Discord activites) 
+- 🔭 I’m currently working with CommunityStudios in providing multi-platform React-based games and apps (Telegram mini apps and Discord activites) 
 - 👯 I’m looking to collaborate on web dev projects, particularly WebGL projects
 - 🤔 I’m looking for help with GLSL programming.
 - 💬 Ask me about microcontrollers, robotics, automation and control systems.
